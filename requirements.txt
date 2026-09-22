@@ -1,0 +1,2 @@
+# Tidak ada dependensi eksternal.
+# Skrip menggunakan standard library Python.
