@@ -1,0 +1,54 @@
+{
+  "generatedAt": "2026-09-21T08:00:00+07:00",
+  "date": "2026-09-21",
+  "areas": ["gresik", "lamongan"],
+  "source": "Contoh data retail lokal",
+  "retailCoverage": {
+    "records": 2,
+    "message": "Data contoh dari CSV retail. Jalankan pelacak untuk mengganti dengan data terbaru."
+  },
+  "records": [
+    {
+      "date": "2026-09-21",
+      "area": "gresik",
+      "marketId": "retail:contoh-toko",
+      "location": "Toko Contoh",
+      "sourceType": "toko",
+      "commodityKey": "beras-medium",
+      "commodity": "Beras medium",
+      "brand": "Merk Contoh",
+      "productName": "Beras Medium Premium",
+      "size": "5 kg",
+      "unit": "kg",
+      "price": 62500,
+      "priceType": "normal",
+      "stockStatus": "tersedia",
+      "confidence": "input-manual",
+      "observedAt": "2026-09-21 08:00",
+      "address": "Alamat toko, Gresik",
+      "sourceUrl": "https://contoh.invalid/harga"
+    },
+    {
+      "date": "2026-09-21",
+      "area": "lamongan",
+      "marketId": "retail:contoh-koperasi",
+      "location": "Koperasi Contoh",
+      "sourceType": "koperasi",
+      "commodityKey": "gula",
+      "commodity": "Gula kristal putih",
+      "brand": "Gulaku",
+      "productName": "Gula Premium",
+      "size": "1 kg",
+      "unit": "kg",
+      "price": 17000,
+      "priceType": "promo",
+      "stockStatus": "tersedia",
+      "confidence": "input-manual",
+      "observedAt": "2026-09-21 08:00",
+      "address": "Alamat koperasi, Lamongan",
+      "sourceUrl": "https://contoh.invalid/harga"
+    }
+  ],
+  "trends": [],
+  "errors": []
+}

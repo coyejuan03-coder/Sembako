@@ -1,0 +1,3 @@
+date,area,marketId,location,sourceType,commodityKey,commodity,brand,productName,size,unit,price,priceType,stockStatus,confidence,observedAt,address,sourceUrl
+2026-09-21,gresik,retail:contoh-toko,Toko Contoh,toko,beras-medium,Beras medium,Merk Contoh,Beras Medium Premium,5 kg,kg,62500,normal,tersedia,input-manual,2026-09-21 08:00,"Alamat toko, Gresik",https://contoh.invalid/harga
+2026-09-21,lamongan,retail:contoh-koperasi,Koperasi Contoh,koperasi,gula,Gula kristal putih,Gulaku,Gula Premium,1 kg,kg,17000,promo,tersedia,input-manual,2026-09-21 08:00,"Alamat koperasi, Lamongan",https://contoh.invalid/harga
