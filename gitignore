@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+data/price-history.csv
+data/retail-prices.csv
+.DS_Store
