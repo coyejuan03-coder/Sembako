@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Perbandingan harga sembako Gresik dan Lamongan." />
+    <title>Harga Pangan Gresik–Lamongan</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="page-shell">
+      <header class="hero">
+        <div class="eyebrow">PEMANTAU HARGA HARIAN</div>
+        <div class="hero-grid">
+          <div>
+            <h1>Belanja lebih tepat,<br /><span>sebelum harga naik.</span></h1>
+            <p class="hero-copy">
+              Bandingkan harga pasar dan retail yang terverifikasi di Gresik dan Lamongan.
+              Setiap angka menyimpan lokasi, waktu cek, ukuran, dan sumbernya.
+            </p>
+          </div>
+          <div class="hero-note">
+            <div class="note-label">SUMBER DATA</div>
+            <strong id="source-status">Memuat laporan…</strong>
+            <span id="updated-status">Menyiapkan data terbaru</span>
+          </div>
+        </div>
+      </header>
+
+      <section class="controls" aria-label="Filter harga">
+        <label class="search-field">
+          <span class="sr-only">Cari produk atau lokasi</span>
+          <input id="search" type="search" placeholder="Cari beras, merk, pasar, toko…" />
+        </label>
+        <label>
+          <span>Wilayah</span>
+          <select id="area">
+            <option value="all">Semua wilayah</option>
+            <option value="gresik">Gresik</option>
+            <option value="lamongan">Lamongan</option>
+          </select>
+        </label>
+        <label>
+          <span>Jenis tempat</span>
+          <select id="source-type">
+            <option value="all">Semua sumber</option>
+            <option value="pasar rakyat">Pasar rakyat</option>
+            <option value="toko">Toko</option>
+            <option value="koperasi">Koperasi</option>
+            <option value="swalayan">Swalayan</option>
+          </select>
+        </label>
+        <label>
+          <span>Urutkan</span>
+          <select id="sort">
+            <option value="cheapest">Termurah dulu</option>
+            <option value="product">Nama produk</option>
+            <option value="freshness">Terbaru dicek</option>
+          </select>
+        </label>
+      </section>
+
+      <section class="stats" aria-label="Ringkasan">
+        <article class="stat-card">
+          <span class="stat-label">Harga terendah</span>
+          <strong id="stat-cheapest">—</strong>
+          <small>produk terpantau</small>
+        </article>
+        <article class="stat-card">
+          <span class="stat-label">Sinyal kenaikan</span>
+          <strong id="stat-warnings">—</strong>
+          <small>perlu diwaspadai</small>
+        </article>
+        <article class="stat-card">
+          <span class="stat-label">Lokasi aktif</span>
+          <strong id="stat-locations">—</strong>
+          <small>pasar dan retail</small>
+        </article>
+        <article class="stat-card accent">
+          <span class="stat-label">Kepercayaan data</span>
+          <strong id="stat-confidence">—</strong>
+          <small>status sumber terbaru</small>
+        </article>
+      </section>
+
+      <section class="alert-panel" id="retail-panel" hidden>
+        <div class="alert-icon">i</div>
+        <div>
+          <strong>Harga retail ikut dibandingkan</strong>
+          <p id="retail-message"></p>
+        </div>
+      </section>
+
+      <section class="section-heading">
+        <div>
+          <div class="eyebrow">REKOMENDASI BELI</div>
+          <h2>Termurah yang terpantau</h2>
+        </div>
+        <p id="result-count">0 hasil</p>
+      </section>
+      <section class="cheapest-grid" id="cheapest-grid"></section>
+
+      <section class="section-heading trend-heading">
+        <div>
+          <div class="eyebrow">PERINGATAN DINI</div>
+          <h2>Komoditas yang perlu dipantau</h2>
+        </div>
+      </section>
+      <section class="trend-list" id="trend-list"></section>
+
+      <section class="section-heading table-heading">
+        <div>
+          <div class="eyebrow">RINCIAN SUMBER</div>
+          <h2>Harga per lokasi</h2>
+        </div>
+      </section>
+      <section class="table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th>Produk / merk</th>
+              <th>Harga</th>
+              <th>Tempat beli</th>
+              <th>Status</th>
+              <th>Diperiksa</th>
+            </tr>
+          </thead>
+          <tbody id="price-table"></tbody>
+        </table>
+      </section>
+
+      <footer>
+        <span>Data survei bukan jaminan stok. Konfirmasi harga ekstrem sebelum berangkat.</span>
+        <span id="footer-source">SISKAPERBAPO Jawa Timur</span>
+      </footer>
+    </main>
+    <script src="app.js"></script>
+  </body>
+</html>
