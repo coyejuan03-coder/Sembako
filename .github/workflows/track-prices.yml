@@ -1,0 +1,58 @@
+name: Pelacak Harga Sembako
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 08:00 WIB setiap hari (01:00 UTC)
+    - cron: "0 1 * * *"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  track:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ambil kode
+        uses: actions/checkout@v4
+
+      - name: Siapkan Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Lacak harga terbaru
+        run: python track_prices.py --telegram
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+
+      - name: Simpan riwayat ke repository
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/price-history.csv data/latest-price-report.json
+          git diff --cached --quiet || git commit -m "Update harga sembako"
+          git push
+
+      - name: Siapkan GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Susun website
+        run: |
+          rm -rf _site
+          mkdir -p _site/data
+          cp -R web/. _site/
+          cp data/latest-price-report.json _site/data/latest-price-report.json
+          touch _site/.nojekyll
+
+      - name: Unggah artefak Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "_site"
+
+      - name: Terbitkan GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
