@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-01T01:13:59.532893+00:00",
-  "date": "2026-10-01",
+  "generatedAt": "2026-10-02T01:13:01.201925+00:00",
+  "date": "2026-10-02",
   "areas": [
     "gresik",
     "lamongan"
@@ -12,7 +12,7 @@
   },
   "records": [
     {
-      "date": "2026-10-01",
+      "date": "2026-10-02",
       "area": "gresik",
       "marketId": "45",
       "location": "Pasar Baru",
@@ -23,16 +23,16 @@
       "productName": "Bawang merah",
       "size": "1 kg",
       "unit": "kg",
-      "price": 17000,
+      "price": 21000,
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-01",
+      "observedAt": "2026-10-02",
       "address": "Pasar Baru, Kabupaten Gresik",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-01&kabkota=gresikkab&pasar=45"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-02&kabkota=gresikkab&pasar=45"
     },
     {
-      "date": "2026-10-01",
+      "date": "2026-10-02",
       "area": "gresik",
       "marketId": "46",
       "location": "Pasar Kota",
@@ -43,16 +43,16 @@
       "productName": "Bawang merah",
       "size": "1 kg",
       "unit": "kg",
-      "price": 17000,
+      "price": 21000,
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-01",
+      "observedAt": "2026-10-02",
       "address": "Pasar Kota, Kabupaten Gresik",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-01&kabkota=gresikkab&pasar=46"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-02&kabkota=gresikkab&pasar=46"
     },
     {
-      "date": "2026-10-01",
+      "date": "2026-10-02",
       "area": "gresik",
       "marketId": "123",
       "location": "Pasar Sidomoro",
@@ -63,16 +63,16 @@
       "productName": "Bawang merah",
       "size": "1 kg",
       "unit": "kg",
-      "price": 17000,
+      "price": 21000,
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-01",
+      "observedAt": "2026-10-02",
       "address": "Pasar Sidomoro, Kabupaten Gresik",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-01&kabkota=gresikkab&pasar=123"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-02&kabkota=gresikkab&pasar=123"
     },
     {
-      "date": "2026-10-01",
+      "date": "2026-10-02",
       "area": "lamongan",
       "marketId": "53",
       "location": "Pasar Sidoharjo",
@@ -83,16 +83,16 @@
       "productName": "Bawang merah",
       "size": "1 kg",
       "unit": "kg",
-      "price": 17000,
+      "price": 21000,
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-01",
+      "observedAt": "2026-10-02",
       "address": "Pasar Sidoharjo, Kabupaten Lamongan",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-01&kabkota=lamongankab&pasar=53"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-02&kabkota=lamongankab&pasar=53"
     },
     {
-      "date": "2026-10-01",
+      "date": "2026-10-02",
       "area": "lamongan",
       "marketId": "54",
       "location": "Pasar Babat",
@@ -103,16 +103,16 @@
       "productName": "Bawang merah",
       "size": "1 kg",
       "unit": "kg",
-      "price": 17000,
+      "price": 21000,
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-01",
+      "observedAt": "2026-10-02",
       "address": "Pasar Babat, Kabupaten Lamongan",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-01&kabkota=lamongankab&pasar=54"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-02&kabkota=lamongankab&pasar=54"
     },
     {
-      "date": "2026-10-01",
+      "date": "2026-10-02",
       "area": "lamongan",
       "marketId": "55",
       "location": "Pasar Blimbing",
@@ -123,16 +123,16 @@
       "productName": "Bawang merah",
       "size": "1 kg",
       "unit": "kg",
-      "price": 17000,
+      "price": 21000,
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-01",
+      "observedAt": "2026-10-02",
       "address": "Pasar Blimbing, Kabupaten Lamongan",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-01&kabkota=lamongankab&pasar=55"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-02&kabkota=lamongankab&pasar=55"
     },
     {
-      "date": "2026-10-01",
+      "date": "2026-10-02",
       "area": "lamongan",
       "marketId": "121",
       "location": "Pasar Mantup",
@@ -143,13 +143,13 @@
       "productName": "Bawang merah",
       "size": "1 kg",
       "unit": "kg",
-      "price": 17000,
+      "price": 21000,
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-01",
+      "observedAt": "2026-10-02",
       "address": "Pasar Mantup, Kabupaten Lamongan",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-01&kabkota=lamongankab&pasar=121"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-02&kabkota=lamongankab&pasar=121"
     }
   ],
   "trends": [
@@ -279,11 +279,11 @@
       "commodityKey": "bawang-merah",
       "commodity": "Bawang merah",
       "unit": "kg",
-      "latestPrice": 17000.0,
-      "previousAverage": 21904.761904761905,
-      "changePercent": -22.391304347826086,
-      "signal": "MURAH",
-      "reason": "Harga dekat titik terendah pada riwayat yang tersimpan."
+      "latestPrice": 21000.0,
+      "previousAverage": 21190.47619047619,
+      "changePercent": -0.8988764044943837,
+      "signal": "NORMAL",
+      "reason": "Belum ada sinyal kenaikan kuat atau titik murah baru."
     },
     {
       "area": "gresik",
@@ -433,11 +433,11 @@
       "commodityKey": "bawang-merah",
       "commodity": "Bawang merah",
       "unit": "kg",
-      "latestPrice": 17000.0,
-      "previousAverage": 23000.0,
-      "changePercent": -26.08695652173913,
-      "signal": "MURAH",
-      "reason": "Harga dekat titik terendah pada riwayat yang tersimpan."
+      "latestPrice": 21000.0,
+      "previousAverage": 22285.714285714286,
+      "changePercent": -5.769230769230772,
+      "signal": "NORMAL",
+      "reason": "Belum ada sinyal kenaikan kuat atau titik murah baru."
     },
     {
       "area": "lamongan",
