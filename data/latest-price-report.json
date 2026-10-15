@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-14T01:27:48.051247+00:00",
-  "date": "2026-10-14",
+  "generatedAt": "2026-10-15T01:27:23.246640+00:00",
+  "date": "2026-10-15",
   "areas": [
     "gresik",
     "lamongan"
@@ -12,227 +12,47 @@
   },
   "records": [
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "area": "gresik",
-      "marketId": "123",
-      "location": "Pasar Sidomoro",
+      "marketId": "45",
+      "location": "Pasar Baru",
       "sourceType": "pasar rakyat",
-      "commodityKey": "beras-premium",
-      "commodity": "Beras premium",
+      "commodityKey": "bawang-merah",
+      "commodity": "Bawang merah",
       "brand": "Komoditas pasar",
-      "productName": "Beras premium",
+      "productName": "Bawang merah",
       "size": "1 kg",
       "unit": "kg",
-      "price": 15000,
+      "price": 22000,
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
-      "address": "Pasar Sidomoro, Kabupaten Gresik",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=gresikkab&pasar=123"
+      "observedAt": "2026-10-15",
+      "address": "Pasar Baru, Kabupaten Gresik",
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-15&kabkota=gresikkab&pasar=45"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "area": "gresik",
-      "marketId": "123",
-      "location": "Pasar Sidomoro",
+      "marketId": "46",
+      "location": "Pasar Kota",
       "sourceType": "pasar rakyat",
-      "commodityKey": "beras-medium",
-      "commodity": "Beras medium",
+      "commodityKey": "bawang-merah",
+      "commodity": "Bawang merah",
       "brand": "Komoditas pasar",
-      "productName": "Beras medium",
+      "productName": "Bawang merah",
       "size": "1 kg",
       "unit": "kg",
-      "price": 12500,
+      "price": 22000,
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
-      "address": "Pasar Sidomoro, Kabupaten Gresik",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=gresikkab&pasar=123"
+      "observedAt": "2026-10-15",
+      "address": "Pasar Kota, Kabupaten Gresik",
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-15&kabkota=gresikkab&pasar=46"
     },
     {
-      "date": "2026-10-14",
-      "area": "gresik",
-      "marketId": "123",
-      "location": "Pasar Sidomoro",
-      "sourceType": "pasar rakyat",
-      "commodityKey": "gula",
-      "commodity": "Gula kristal putih",
-      "brand": "Komoditas pasar",
-      "productName": "Gula kristal putih",
-      "size": "1 kg",
-      "unit": "kg",
-      "price": 18000,
-      "priceType": "survei",
-      "stockStatus": "terpantau",
-      "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
-      "address": "Pasar Sidomoro, Kabupaten Gresik",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=gresikkab&pasar=123"
-    },
-    {
-      "date": "2026-10-14",
-      "area": "gresik",
-      "marketId": "123",
-      "location": "Pasar Sidomoro",
-      "sourceType": "pasar rakyat",
-      "commodityKey": "minyak-curah",
-      "commodity": "Minyak goreng curah",
-      "brand": "Komoditas pasar",
-      "productName": "Minyak goreng curah",
-      "size": "1 kg",
-      "unit": "kg",
-      "price": 20000,
-      "priceType": "survei",
-      "stockStatus": "terpantau",
-      "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
-      "address": "Pasar Sidomoro, Kabupaten Gresik",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=gresikkab&pasar=123"
-    },
-    {
-      "date": "2026-10-14",
-      "area": "gresik",
-      "marketId": "123",
-      "location": "Pasar Sidomoro",
-      "sourceType": "pasar rakyat",
-      "commodityKey": "minyakita",
-      "commodity": "Minyakita",
-      "brand": "Komoditas pasar",
-      "productName": "Minyakita",
-      "size": "1 liter",
-      "unit": "liter",
-      "price": 15700,
-      "priceType": "survei",
-      "stockStatus": "terpantau",
-      "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
-      "address": "Pasar Sidomoro, Kabupaten Gresik",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=gresikkab&pasar=123"
-    },
-    {
-      "date": "2026-10-14",
-      "area": "gresik",
-      "marketId": "123",
-      "location": "Pasar Sidomoro",
-      "sourceType": "pasar rakyat",
-      "commodityKey": "ayam",
-      "commodity": "Daging ayam ras",
-      "brand": "Komoditas pasar",
-      "productName": "Daging ayam ras",
-      "size": "1 kg",
-      "unit": "kg",
-      "price": 40000,
-      "priceType": "survei",
-      "stockStatus": "terpantau",
-      "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
-      "address": "Pasar Sidomoro, Kabupaten Gresik",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=gresikkab&pasar=123"
-    },
-    {
-      "date": "2026-10-14",
-      "area": "gresik",
-      "marketId": "123",
-      "location": "Pasar Sidomoro",
-      "sourceType": "pasar rakyat",
-      "commodityKey": "telur",
-      "commodity": "Telur ayam ras",
-      "brand": "Komoditas pasar",
-      "productName": "Telur ayam ras",
-      "size": "1 kg",
-      "unit": "kg",
-      "price": 26000,
-      "priceType": "survei",
-      "stockStatus": "terpantau",
-      "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
-      "address": "Pasar Sidomoro, Kabupaten Gresik",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=gresikkab&pasar=123"
-    },
-    {
-      "date": "2026-10-14",
-      "area": "gresik",
-      "marketId": "123",
-      "location": "Pasar Sidomoro",
-      "sourceType": "pasar rakyat",
-      "commodityKey": "sapi",
-      "commodity": "Daging sapi paha belakang",
-      "brand": "Komoditas pasar",
-      "productName": "Daging sapi paha belakang",
-      "size": "1 kg",
-      "unit": "kg",
-      "price": 130000,
-      "priceType": "survei",
-      "stockStatus": "terpantau",
-      "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
-      "address": "Pasar Sidomoro, Kabupaten Gresik",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=gresikkab&pasar=123"
-    },
-    {
-      "date": "2026-10-14",
-      "area": "gresik",
-      "marketId": "123",
-      "location": "Pasar Sidomoro",
-      "sourceType": "pasar rakyat",
-      "commodityKey": "cabai-keriting",
-      "commodity": "Cabai merah keriting",
-      "brand": "Komoditas pasar",
-      "productName": "Cabai merah keriting",
-      "size": "1 kg",
-      "unit": "kg",
-      "price": 65000,
-      "priceType": "survei",
-      "stockStatus": "terpantau",
-      "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
-      "address": "Pasar Sidomoro, Kabupaten Gresik",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=gresikkab&pasar=123"
-    },
-    {
-      "date": "2026-10-14",
-      "area": "gresik",
-      "marketId": "123",
-      "location": "Pasar Sidomoro",
-      "sourceType": "pasar rakyat",
-      "commodityKey": "cabai-besar",
-      "commodity": "Cabai merah besar",
-      "brand": "Komoditas pasar",
-      "productName": "Cabai merah besar",
-      "size": "1 kg",
-      "unit": "kg",
-      "price": 45000,
-      "priceType": "survei",
-      "stockStatus": "terpantau",
-      "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
-      "address": "Pasar Sidomoro, Kabupaten Gresik",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=gresikkab&pasar=123"
-    },
-    {
-      "date": "2026-10-14",
-      "area": "gresik",
-      "marketId": "123",
-      "location": "Pasar Sidomoro",
-      "sourceType": "pasar rakyat",
-      "commodityKey": "cabai-rawit",
-      "commodity": "Cabai rawit merah",
-      "brand": "Komoditas pasar",
-      "productName": "Cabai rawit merah",
-      "size": "1 kg",
-      "unit": "kg",
-      "price": 60000,
-      "priceType": "survei",
-      "stockStatus": "terpantau",
-      "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
-      "address": "Pasar Sidomoro, Kabupaten Gresik",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=gresikkab&pasar=123"
-    },
-    {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "area": "gresik",
       "marketId": "123",
       "location": "Pasar Sidomoro",
@@ -243,56 +63,16 @@
       "productName": "Bawang merah",
       "size": "1 kg",
       "unit": "kg",
-      "price": 30000,
+      "price": 22000,
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
+      "observedAt": "2026-10-15",
       "address": "Pasar Sidomoro, Kabupaten Gresik",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=gresikkab&pasar=123"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-15&kabkota=gresikkab&pasar=123"
     },
     {
-      "date": "2026-10-14",
-      "area": "gresik",
-      "marketId": "123",
-      "location": "Pasar Sidomoro",
-      "sourceType": "pasar rakyat",
-      "commodityKey": "bawang-putih",
-      "commodity": "Bawang putih",
-      "brand": "Komoditas pasar",
-      "productName": "Bawang putih",
-      "size": "1 kg",
-      "unit": "kg",
-      "price": 30000,
-      "priceType": "survei",
-      "stockStatus": "terpantau",
-      "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
-      "address": "Pasar Sidomoro, Kabupaten Gresik",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=gresikkab&pasar=123"
-    },
-    {
-      "date": "2026-10-14",
-      "area": "gresik",
-      "marketId": "123",
-      "location": "Pasar Sidomoro",
-      "sourceType": "pasar rakyat",
-      "commodityKey": "lpg",
-      "commodity": "LPG 3 kg",
-      "brand": "Komoditas pasar",
-      "productName": "LPG 3 kg",
-      "size": "1 tabung",
-      "unit": "tabung",
-      "price": 20000,
-      "priceType": "survei",
-      "stockStatus": "terpantau",
-      "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
-      "address": "Pasar Sidomoro, Kabupaten Gresik",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=gresikkab&pasar=123"
-    },
-    {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "area": "lamongan",
       "marketId": "53",
       "location": "Pasar Sidoharjo",
@@ -307,12 +87,12 @@
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
+      "observedAt": "2026-10-15",
       "address": "Pasar Sidoharjo, Kabupaten Lamongan",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=lamongankab&pasar=53"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-15&kabkota=lamongankab&pasar=53"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "area": "lamongan",
       "marketId": "53",
       "location": "Pasar Sidoharjo",
@@ -327,12 +107,12 @@
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
+      "observedAt": "2026-10-15",
       "address": "Pasar Sidoharjo, Kabupaten Lamongan",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=lamongankab&pasar=53"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-15&kabkota=lamongankab&pasar=53"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "area": "lamongan",
       "marketId": "53",
       "location": "Pasar Sidoharjo",
@@ -347,12 +127,12 @@
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
+      "observedAt": "2026-10-15",
       "address": "Pasar Sidoharjo, Kabupaten Lamongan",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=lamongankab&pasar=53"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-15&kabkota=lamongankab&pasar=53"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "area": "lamongan",
       "marketId": "53",
       "location": "Pasar Sidoharjo",
@@ -367,12 +147,12 @@
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
+      "observedAt": "2026-10-15",
       "address": "Pasar Sidoharjo, Kabupaten Lamongan",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=lamongankab&pasar=53"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-15&kabkota=lamongankab&pasar=53"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "area": "lamongan",
       "marketId": "53",
       "location": "Pasar Sidoharjo",
@@ -387,12 +167,12 @@
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
+      "observedAt": "2026-10-15",
       "address": "Pasar Sidoharjo, Kabupaten Lamongan",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=lamongankab&pasar=53"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-15&kabkota=lamongankab&pasar=53"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "area": "lamongan",
       "marketId": "53",
       "location": "Pasar Sidoharjo",
@@ -407,12 +187,12 @@
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
+      "observedAt": "2026-10-15",
       "address": "Pasar Sidoharjo, Kabupaten Lamongan",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=lamongankab&pasar=53"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-15&kabkota=lamongankab&pasar=53"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "area": "lamongan",
       "marketId": "53",
       "location": "Pasar Sidoharjo",
@@ -427,12 +207,12 @@
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
+      "observedAt": "2026-10-15",
       "address": "Pasar Sidoharjo, Kabupaten Lamongan",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=lamongankab&pasar=53"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-15&kabkota=lamongankab&pasar=53"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "area": "lamongan",
       "marketId": "53",
       "location": "Pasar Sidoharjo",
@@ -447,12 +227,12 @@
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
+      "observedAt": "2026-10-15",
       "address": "Pasar Sidoharjo, Kabupaten Lamongan",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=lamongankab&pasar=53"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-15&kabkota=lamongankab&pasar=53"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "area": "lamongan",
       "marketId": "53",
       "location": "Pasar Sidoharjo",
@@ -467,12 +247,12 @@
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
+      "observedAt": "2026-10-15",
       "address": "Pasar Sidoharjo, Kabupaten Lamongan",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=lamongankab&pasar=53"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-15&kabkota=lamongankab&pasar=53"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "area": "lamongan",
       "marketId": "53",
       "location": "Pasar Sidoharjo",
@@ -487,12 +267,12 @@
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
+      "observedAt": "2026-10-15",
       "address": "Pasar Sidoharjo, Kabupaten Lamongan",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=lamongankab&pasar=53"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-15&kabkota=lamongankab&pasar=53"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "area": "lamongan",
       "marketId": "53",
       "location": "Pasar Sidoharjo",
@@ -507,12 +287,12 @@
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
+      "observedAt": "2026-10-15",
       "address": "Pasar Sidoharjo, Kabupaten Lamongan",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=lamongankab&pasar=53"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-15&kabkota=lamongankab&pasar=53"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "area": "lamongan",
       "marketId": "53",
       "location": "Pasar Sidoharjo",
@@ -527,12 +307,12 @@
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
+      "observedAt": "2026-10-15",
       "address": "Pasar Sidoharjo, Kabupaten Lamongan",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=lamongankab&pasar=53"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-15&kabkota=lamongankab&pasar=53"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "area": "lamongan",
       "marketId": "53",
       "location": "Pasar Sidoharjo",
@@ -547,12 +327,12 @@
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
+      "observedAt": "2026-10-15",
       "address": "Pasar Sidoharjo, Kabupaten Lamongan",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=lamongankab&pasar=53"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-15&kabkota=lamongankab&pasar=53"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "area": "lamongan",
       "marketId": "53",
       "location": "Pasar Sidoharjo",
@@ -567,12 +347,12 @@
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
+      "observedAt": "2026-10-15",
       "address": "Pasar Sidoharjo, Kabupaten Lamongan",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=lamongankab&pasar=53"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-15&kabkota=lamongankab&pasar=53"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "area": "lamongan",
       "marketId": "54",
       "location": "Pasar Babat",
@@ -587,12 +367,12 @@
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
+      "observedAt": "2026-10-15",
       "address": "Pasar Babat, Kabupaten Lamongan",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=lamongankab&pasar=54"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-15&kabkota=lamongankab&pasar=54"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "area": "lamongan",
       "marketId": "54",
       "location": "Pasar Babat",
@@ -607,12 +387,12 @@
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
+      "observedAt": "2026-10-15",
       "address": "Pasar Babat, Kabupaten Lamongan",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=lamongankab&pasar=54"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-15&kabkota=lamongankab&pasar=54"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "area": "lamongan",
       "marketId": "54",
       "location": "Pasar Babat",
@@ -627,12 +407,12 @@
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
+      "observedAt": "2026-10-15",
       "address": "Pasar Babat, Kabupaten Lamongan",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=lamongankab&pasar=54"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-15&kabkota=lamongankab&pasar=54"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "area": "lamongan",
       "marketId": "54",
       "location": "Pasar Babat",
@@ -647,12 +427,12 @@
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
+      "observedAt": "2026-10-15",
       "address": "Pasar Babat, Kabupaten Lamongan",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=lamongankab&pasar=54"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-15&kabkota=lamongankab&pasar=54"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "area": "lamongan",
       "marketId": "54",
       "location": "Pasar Babat",
@@ -667,12 +447,12 @@
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
+      "observedAt": "2026-10-15",
       "address": "Pasar Babat, Kabupaten Lamongan",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=lamongankab&pasar=54"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-15&kabkota=lamongankab&pasar=54"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "area": "lamongan",
       "marketId": "54",
       "location": "Pasar Babat",
@@ -687,12 +467,12 @@
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
+      "observedAt": "2026-10-15",
       "address": "Pasar Babat, Kabupaten Lamongan",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=lamongankab&pasar=54"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-15&kabkota=lamongankab&pasar=54"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "area": "lamongan",
       "marketId": "54",
       "location": "Pasar Babat",
@@ -707,12 +487,12 @@
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
+      "observedAt": "2026-10-15",
       "address": "Pasar Babat, Kabupaten Lamongan",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=lamongankab&pasar=54"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-15&kabkota=lamongankab&pasar=54"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "area": "lamongan",
       "marketId": "54",
       "location": "Pasar Babat",
@@ -727,12 +507,12 @@
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
+      "observedAt": "2026-10-15",
       "address": "Pasar Babat, Kabupaten Lamongan",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=lamongankab&pasar=54"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-15&kabkota=lamongankab&pasar=54"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "area": "lamongan",
       "marketId": "54",
       "location": "Pasar Babat",
@@ -747,12 +527,12 @@
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
+      "observedAt": "2026-10-15",
       "address": "Pasar Babat, Kabupaten Lamongan",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=lamongankab&pasar=54"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-15&kabkota=lamongankab&pasar=54"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "area": "lamongan",
       "marketId": "54",
       "location": "Pasar Babat",
@@ -767,12 +547,12 @@
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
+      "observedAt": "2026-10-15",
       "address": "Pasar Babat, Kabupaten Lamongan",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=lamongankab&pasar=54"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-15&kabkota=lamongankab&pasar=54"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "area": "lamongan",
       "marketId": "54",
       "location": "Pasar Babat",
@@ -787,12 +567,12 @@
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
+      "observedAt": "2026-10-15",
       "address": "Pasar Babat, Kabupaten Lamongan",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=lamongankab&pasar=54"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-15&kabkota=lamongankab&pasar=54"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "area": "lamongan",
       "marketId": "54",
       "location": "Pasar Babat",
@@ -807,12 +587,12 @@
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
+      "observedAt": "2026-10-15",
       "address": "Pasar Babat, Kabupaten Lamongan",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=lamongankab&pasar=54"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-15&kabkota=lamongankab&pasar=54"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "area": "lamongan",
       "marketId": "54",
       "location": "Pasar Babat",
@@ -827,12 +607,12 @@
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
+      "observedAt": "2026-10-15",
       "address": "Pasar Babat, Kabupaten Lamongan",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=lamongankab&pasar=54"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-15&kabkota=lamongankab&pasar=54"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "area": "lamongan",
       "marketId": "54",
       "location": "Pasar Babat",
@@ -847,12 +627,12 @@
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
+      "observedAt": "2026-10-15",
       "address": "Pasar Babat, Kabupaten Lamongan",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=lamongankab&pasar=54"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-15&kabkota=lamongankab&pasar=54"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "area": "lamongan",
       "marketId": "55",
       "location": "Pasar Blimbing",
@@ -867,12 +647,12 @@
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
+      "observedAt": "2026-10-15",
       "address": "Pasar Blimbing, Kabupaten Lamongan",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=lamongankab&pasar=55"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-15&kabkota=lamongankab&pasar=55"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "area": "lamongan",
       "marketId": "55",
       "location": "Pasar Blimbing",
@@ -887,12 +667,12 @@
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
+      "observedAt": "2026-10-15",
       "address": "Pasar Blimbing, Kabupaten Lamongan",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=lamongankab&pasar=55"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-15&kabkota=lamongankab&pasar=55"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "area": "lamongan",
       "marketId": "55",
       "location": "Pasar Blimbing",
@@ -907,12 +687,12 @@
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
+      "observedAt": "2026-10-15",
       "address": "Pasar Blimbing, Kabupaten Lamongan",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=lamongankab&pasar=55"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-15&kabkota=lamongankab&pasar=55"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "area": "lamongan",
       "marketId": "55",
       "location": "Pasar Blimbing",
@@ -927,12 +707,12 @@
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
+      "observedAt": "2026-10-15",
       "address": "Pasar Blimbing, Kabupaten Lamongan",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=lamongankab&pasar=55"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-15&kabkota=lamongankab&pasar=55"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "area": "lamongan",
       "marketId": "55",
       "location": "Pasar Blimbing",
@@ -947,12 +727,12 @@
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
+      "observedAt": "2026-10-15",
       "address": "Pasar Blimbing, Kabupaten Lamongan",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=lamongankab&pasar=55"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-15&kabkota=lamongankab&pasar=55"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "area": "lamongan",
       "marketId": "55",
       "location": "Pasar Blimbing",
@@ -967,12 +747,12 @@
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
+      "observedAt": "2026-10-15",
       "address": "Pasar Blimbing, Kabupaten Lamongan",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=lamongankab&pasar=55"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-15&kabkota=lamongankab&pasar=55"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "area": "lamongan",
       "marketId": "55",
       "location": "Pasar Blimbing",
@@ -987,12 +767,12 @@
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
+      "observedAt": "2026-10-15",
       "address": "Pasar Blimbing, Kabupaten Lamongan",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=lamongankab&pasar=55"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-15&kabkota=lamongankab&pasar=55"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "area": "lamongan",
       "marketId": "55",
       "location": "Pasar Blimbing",
@@ -1007,12 +787,12 @@
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
+      "observedAt": "2026-10-15",
       "address": "Pasar Blimbing, Kabupaten Lamongan",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=lamongankab&pasar=55"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-15&kabkota=lamongankab&pasar=55"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "area": "lamongan",
       "marketId": "55",
       "location": "Pasar Blimbing",
@@ -1027,12 +807,12 @@
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
+      "observedAt": "2026-10-15",
       "address": "Pasar Blimbing, Kabupaten Lamongan",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=lamongankab&pasar=55"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-15&kabkota=lamongankab&pasar=55"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "area": "lamongan",
       "marketId": "55",
       "location": "Pasar Blimbing",
@@ -1047,12 +827,12 @@
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
+      "observedAt": "2026-10-15",
       "address": "Pasar Blimbing, Kabupaten Lamongan",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=lamongankab&pasar=55"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-15&kabkota=lamongankab&pasar=55"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "area": "lamongan",
       "marketId": "55",
       "location": "Pasar Blimbing",
@@ -1067,12 +847,12 @@
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
+      "observedAt": "2026-10-15",
       "address": "Pasar Blimbing, Kabupaten Lamongan",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=lamongankab&pasar=55"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-15&kabkota=lamongankab&pasar=55"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "area": "lamongan",
       "marketId": "55",
       "location": "Pasar Blimbing",
@@ -1087,12 +867,12 @@
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
+      "observedAt": "2026-10-15",
       "address": "Pasar Blimbing, Kabupaten Lamongan",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=lamongankab&pasar=55"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-15&kabkota=lamongankab&pasar=55"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "area": "lamongan",
       "marketId": "55",
       "location": "Pasar Blimbing",
@@ -1107,12 +887,12 @@
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
+      "observedAt": "2026-10-15",
       "address": "Pasar Blimbing, Kabupaten Lamongan",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=lamongankab&pasar=55"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-15&kabkota=lamongankab&pasar=55"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "area": "lamongan",
       "marketId": "55",
       "location": "Pasar Blimbing",
@@ -1127,12 +907,12 @@
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
+      "observedAt": "2026-10-15",
       "address": "Pasar Blimbing, Kabupaten Lamongan",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=lamongankab&pasar=55"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-15&kabkota=lamongankab&pasar=55"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "area": "lamongan",
       "marketId": "121",
       "location": "Pasar Mantup",
@@ -1147,12 +927,12 @@
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
+      "observedAt": "2026-10-15",
       "address": "Pasar Mantup, Kabupaten Lamongan",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=lamongankab&pasar=121"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-15&kabkota=lamongankab&pasar=121"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "area": "lamongan",
       "marketId": "121",
       "location": "Pasar Mantup",
@@ -1167,12 +947,12 @@
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
+      "observedAt": "2026-10-15",
       "address": "Pasar Mantup, Kabupaten Lamongan",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=lamongankab&pasar=121"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-15&kabkota=lamongankab&pasar=121"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "area": "lamongan",
       "marketId": "121",
       "location": "Pasar Mantup",
@@ -1187,12 +967,12 @@
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
+      "observedAt": "2026-10-15",
       "address": "Pasar Mantup, Kabupaten Lamongan",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=lamongankab&pasar=121"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-15&kabkota=lamongankab&pasar=121"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "area": "lamongan",
       "marketId": "121",
       "location": "Pasar Mantup",
@@ -1207,12 +987,12 @@
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
+      "observedAt": "2026-10-15",
       "address": "Pasar Mantup, Kabupaten Lamongan",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=lamongankab&pasar=121"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-15&kabkota=lamongankab&pasar=121"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "area": "lamongan",
       "marketId": "121",
       "location": "Pasar Mantup",
@@ -1227,12 +1007,12 @@
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
+      "observedAt": "2026-10-15",
       "address": "Pasar Mantup, Kabupaten Lamongan",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=lamongankab&pasar=121"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-15&kabkota=lamongankab&pasar=121"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "area": "lamongan",
       "marketId": "121",
       "location": "Pasar Mantup",
@@ -1247,12 +1027,12 @@
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
+      "observedAt": "2026-10-15",
       "address": "Pasar Mantup, Kabupaten Lamongan",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=lamongankab&pasar=121"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-15&kabkota=lamongankab&pasar=121"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "area": "lamongan",
       "marketId": "121",
       "location": "Pasar Mantup",
@@ -1267,12 +1047,12 @@
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
+      "observedAt": "2026-10-15",
       "address": "Pasar Mantup, Kabupaten Lamongan",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=lamongankab&pasar=121"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-15&kabkota=lamongankab&pasar=121"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "area": "lamongan",
       "marketId": "121",
       "location": "Pasar Mantup",
@@ -1287,12 +1067,12 @@
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
+      "observedAt": "2026-10-15",
       "address": "Pasar Mantup, Kabupaten Lamongan",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=lamongankab&pasar=121"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-15&kabkota=lamongankab&pasar=121"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "area": "lamongan",
       "marketId": "121",
       "location": "Pasar Mantup",
@@ -1303,16 +1083,16 @@
       "productName": "Cabai merah keriting",
       "size": "1 kg",
       "unit": "kg",
-      "price": 50000,
+      "price": 58000,
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
+      "observedAt": "2026-10-15",
       "address": "Pasar Mantup, Kabupaten Lamongan",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=lamongankab&pasar=121"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-15&kabkota=lamongankab&pasar=121"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "area": "lamongan",
       "marketId": "121",
       "location": "Pasar Mantup",
@@ -1327,12 +1107,12 @@
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
+      "observedAt": "2026-10-15",
       "address": "Pasar Mantup, Kabupaten Lamongan",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=lamongankab&pasar=121"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-15&kabkota=lamongankab&pasar=121"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "area": "lamongan",
       "marketId": "121",
       "location": "Pasar Mantup",
@@ -1343,16 +1123,16 @@
       "productName": "Cabai rawit merah",
       "size": "1 kg",
       "unit": "kg",
-      "price": 70000,
+      "price": 68000,
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
+      "observedAt": "2026-10-15",
       "address": "Pasar Mantup, Kabupaten Lamongan",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=lamongankab&pasar=121"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-15&kabkota=lamongankab&pasar=121"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "area": "lamongan",
       "marketId": "121",
       "location": "Pasar Mantup",
@@ -1367,12 +1147,12 @@
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
+      "observedAt": "2026-10-15",
       "address": "Pasar Mantup, Kabupaten Lamongan",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=lamongankab&pasar=121"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-15&kabkota=lamongankab&pasar=121"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "area": "lamongan",
       "marketId": "121",
       "location": "Pasar Mantup",
@@ -1387,12 +1167,12 @@
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
+      "observedAt": "2026-10-15",
       "address": "Pasar Mantup, Kabupaten Lamongan",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=lamongankab&pasar=121"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-15&kabkota=lamongankab&pasar=121"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "area": "lamongan",
       "marketId": "121",
       "location": "Pasar Mantup",
@@ -1407,9 +1187,9 @@
       "priceType": "survei",
       "stockStatus": "terpantau",
       "confidence": "resmi-pasar",
-      "observedAt": "2026-10-14",
+      "observedAt": "2026-10-15",
       "address": "Pasar Mantup, Kabupaten Lamongan",
-      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-14&kabkota=lamongankab&pasar=121"
+      "sourceUrl": "https://siskaperbapo.indagjatim.com/display/show/?tanggal=2026-10-15&kabkota=lamongankab&pasar=121"
     }
   ],
   "trends": [
@@ -1418,9 +1198,9 @@
       "commodityKey": "beras-premium",
       "commodity": "Beras premium",
       "unit": "kg",
-      "latestPrice": 15000.0,
-      "previousAverage": 15173.333333333334,
-      "changePercent": -1.1423550087873502,
+      "latestPrice": 0,
+      "previousAverage": 15144.444444444445,
+      "changePercent": -100.0,
       "signal": "MURAH",
       "reason": "Harga dekat titik terendah pada riwayat yang tersimpan."
     },
@@ -1429,9 +1209,9 @@
       "commodityKey": "beras-medium",
       "commodity": "Beras medium",
       "unit": "kg",
-      "latestPrice": 12500.0,
-      "previousAverage": 12540.0,
-      "changePercent": -0.3189792663476874,
+      "latestPrice": 0,
+      "previousAverage": 12533.333333333334,
+      "changePercent": -100.0,
       "signal": "MURAH",
       "reason": "Harga dekat titik terendah pada riwayat yang tersimpan."
     },
@@ -1440,31 +1220,31 @@
       "commodityKey": "gula",
       "commodity": "Gula kristal putih",
       "unit": "kg",
-      "latestPrice": 18000.0,
-      "previousAverage": 17533.333333333332,
-      "changePercent": 2.661596958174912,
-      "signal": "WASPADA NAIK",
-      "reason": "Harga terbaru minimal 2% di atas rata-rata tujuh hari."
+      "latestPrice": 0,
+      "previousAverage": 17611.11111111111,
+      "changePercent": -100.0,
+      "signal": "MURAH",
+      "reason": "Harga dekat titik terendah pada riwayat yang tersimpan."
     },
     {
       "area": "gresik",
       "commodityKey": "minyak-curah",
       "commodity": "Minyak goreng curah",
       "unit": "kg",
-      "latestPrice": 20000.0,
-      "previousAverage": 19200.0,
-      "changePercent": 4.166666666666666,
-      "signal": "WASPADA NAIK",
-      "reason": "Harga terbaru minimal 2% di atas rata-rata tujuh hari."
+      "latestPrice": 0,
+      "previousAverage": 19333.333333333332,
+      "changePercent": -100.0,
+      "signal": "MURAH",
+      "reason": "Harga dekat titik terendah pada riwayat yang tersimpan."
     },
     {
       "area": "gresik",
       "commodityKey": "minyakita",
       "commodity": "Minyakita",
       "unit": "liter",
-      "latestPrice": 15700.0,
-      "previousAverage": 16053.333333333334,
-      "changePercent": -2.2009966777408674,
+      "latestPrice": 0,
+      "previousAverage": 15994.444444444445,
+      "changePercent": -100.0,
       "signal": "MURAH",
       "reason": "Harga dekat titik terendah pada riwayat yang tersimpan."
     },
@@ -1473,9 +1253,9 @@
       "commodityKey": "ayam",
       "commodity": "Daging ayam ras",
       "unit": "kg",
-      "latestPrice": 40000.0,
-      "previousAverage": 40266.666666666664,
-      "changePercent": -0.6622516556291331,
+      "latestPrice": 0,
+      "previousAverage": 40222.22222222222,
+      "changePercent": -100.0,
       "signal": "MURAH",
       "reason": "Harga dekat titik terendah pada riwayat yang tersimpan."
     },
@@ -1484,53 +1264,53 @@
       "commodityKey": "telur",
       "commodity": "Telur ayam ras",
       "unit": "kg",
-      "latestPrice": 26000.0,
-      "previousAverage": 25533.333333333336,
-      "changePercent": 1.8276762402088678,
-      "signal": "NORMAL",
-      "reason": "Belum ada sinyal kenaikan kuat atau titik murah baru."
+      "latestPrice": 0,
+      "previousAverage": 25611.11111111111,
+      "changePercent": -100.0,
+      "signal": "MURAH",
+      "reason": "Harga dekat titik terendah pada riwayat yang tersimpan."
     },
     {
       "area": "gresik",
       "commodityKey": "sapi",
       "commodity": "Daging sapi paha belakang",
       "unit": "kg",
-      "latestPrice": 130000.0,
-      "previousAverage": 128000.0,
-      "changePercent": 1.5625,
-      "signal": "NORMAL",
-      "reason": "Belum ada sinyal kenaikan kuat atau titik murah baru."
+      "latestPrice": 0,
+      "previousAverage": 128333.33333333333,
+      "changePercent": -100.0,
+      "signal": "MURAH",
+      "reason": "Harga dekat titik terendah pada riwayat yang tersimpan."
     },
     {
       "area": "gresik",
       "commodityKey": "cabai-keriting",
       "commodity": "Cabai merah keriting",
       "unit": "kg",
-      "latestPrice": 65000.0,
-      "previousAverage": 51266.66666666667,
-      "changePercent": 26.788036410923265,
-      "signal": "WASPADA NAIK",
-      "reason": "Harga terbaru minimal 2% di atas rata-rata tujuh hari."
+      "latestPrice": 0,
+      "previousAverage": 53555.555555555555,
+      "changePercent": -100.0,
+      "signal": "MURAH",
+      "reason": "Harga dekat titik terendah pada riwayat yang tersimpan."
     },
     {
       "area": "gresik",
       "commodityKey": "cabai-besar",
       "commodity": "Cabai merah besar",
       "unit": "kg",
-      "latestPrice": 45000.0,
-      "previousAverage": 33066.66666666667,
-      "changePercent": 36.08870967741933,
-      "signal": "WASPADA NAIK",
-      "reason": "Harga terbaru minimal 2% di atas rata-rata tujuh hari."
+      "latestPrice": 0,
+      "previousAverage": 35055.555555555555,
+      "changePercent": -100.0,
+      "signal": "MURAH",
+      "reason": "Harga dekat titik terendah pada riwayat yang tersimpan."
     },
     {
       "area": "gresik",
       "commodityKey": "cabai-rawit",
       "commodity": "Cabai rawit merah",
       "unit": "kg",
-      "latestPrice": 60000.0,
-      "previousAverage": 63600.0,
-      "changePercent": -5.660377358490567,
+      "latestPrice": 0,
+      "previousAverage": 63000.0,
+      "changePercent": -100.0,
       "signal": "MURAH",
       "reason": "Harga dekat titik terendah pada riwayat yang tersimpan."
     },
@@ -1539,31 +1319,31 @@
       "commodityKey": "bawang-merah",
       "commodity": "Bawang merah",
       "unit": "kg",
-      "latestPrice": 30000.0,
-      "previousAverage": 23142.85714285714,
-      "changePercent": 29.62962962962964,
-      "signal": "WASPADA NAIK",
-      "reason": "Harga terbaru minimal 2% di atas rata-rata tujuh hari."
+      "latestPrice": 22000.0,
+      "previousAverage": 24428.571428571428,
+      "changePercent": -9.941520467836254,
+      "signal": "NORMAL",
+      "reason": "Belum ada sinyal kenaikan kuat atau titik murah baru."
     },
     {
       "area": "gresik",
       "commodityKey": "bawang-putih",
       "commodity": "Bawang putih",
       "unit": "kg",
-      "latestPrice": 30000.0,
-      "previousAverage": 30133.333333333332,
-      "changePercent": -0.4424778761061907,
-      "signal": "NORMAL",
-      "reason": "Belum ada sinyal kenaikan kuat atau titik murah baru."
+      "latestPrice": 0,
+      "previousAverage": 30111.11111111111,
+      "changePercent": -100.0,
+      "signal": "MURAH",
+      "reason": "Harga dekat titik terendah pada riwayat yang tersimpan."
     },
     {
       "area": "gresik",
       "commodityKey": "lpg",
       "commodity": "LPG 3 kg",
       "unit": "tabung",
-      "latestPrice": 20000.0,
+      "latestPrice": 0,
       "previousAverage": 20000.0,
-      "changePercent": 0.0,
+      "changePercent": -100.0,
       "signal": "MURAH",
       "reason": "Harga dekat titik terendah pada riwayat yang tersimpan."
     },
@@ -1595,8 +1375,8 @@
       "commodity": "Gula kristal putih",
       "unit": "kg",
       "latestPrice": 17875.0,
-      "previousAverage": 17729.166666666668,
-      "changePercent": 0.8225616921269027,
+      "previousAverage": 17750.0,
+      "changePercent": 0.7042253521126761,
       "signal": "NORMAL",
       "reason": "Belum ada sinyal kenaikan kuat atau titik murah baru."
     },
@@ -1606,8 +1386,8 @@
       "commodity": "Minyak goreng curah",
       "unit": "kg",
       "latestPrice": 21000.0,
-      "previousAverage": 20500.0,
-      "changePercent": 2.4390243902439024,
+      "previousAverage": 20571.428571428572,
+      "changePercent": 2.083333333333328,
       "signal": "WASPADA NAIK",
       "reason": "Harga terbaru minimal 2% di atas rata-rata tujuh hari."
     },
@@ -1617,8 +1397,8 @@
       "commodity": "Minyakita",
       "unit": "liter",
       "latestPrice": 16600.0,
-      "previousAverage": 16533.333333333332,
-      "changePercent": 0.40322580645162026,
+      "previousAverage": 16542.85714285714,
+      "changePercent": 0.3454231433506139,
       "signal": "NORMAL",
       "reason": "Belum ada sinyal kenaikan kuat atau titik murah baru."
     },
@@ -1628,8 +1408,8 @@
       "commodity": "Daging ayam ras",
       "unit": "kg",
       "latestPrice": 39000.0,
-      "previousAverage": 38833.333333333336,
-      "changePercent": 0.4291845493562169,
+      "previousAverage": 38857.142857142855,
+      "changePercent": 0.36764705882353477,
       "signal": "NORMAL",
       "reason": "Belum ada sinyal kenaikan kuat atau titik murah baru."
     },
@@ -1639,8 +1419,8 @@
       "commodity": "Telur ayam ras",
       "unit": "kg",
       "latestPrice": 24750.0,
-      "previousAverage": 25000.0,
-      "changePercent": -1.0,
+      "previousAverage": 24964.285714285714,
+      "changePercent": -0.8583690987124443,
       "signal": "MURAH",
       "reason": "Harga dekat titik terendah pada riwayat yang tersimpan."
     },
@@ -1650,8 +1430,8 @@
       "commodity": "Daging sapi paha belakang",
       "unit": "kg",
       "latestPrice": 130000.0,
-      "previousAverage": 126458.33333333333,
-      "changePercent": 2.8006589785831997,
+      "previousAverage": 126964.28571428571,
+      "changePercent": 2.3909985935302425,
       "signal": "WASPADA NAIK",
       "reason": "Harga terbaru minimal 2% di atas rata-rata tujuh hari."
     },
@@ -1660,9 +1440,9 @@
       "commodityKey": "cabai-keriting",
       "commodity": "Cabai merah keriting",
       "unit": "kg",
-      "latestPrice": 49500.0,
-      "previousAverage": 39416.666666666664,
-      "changePercent": 25.581395348837216,
+      "latestPrice": 51500.0,
+      "previousAverage": 40857.142857142855,
+      "changePercent": 26.048951048951057,
       "signal": "WASPADA NAIK",
       "reason": "Harga terbaru minimal 2% di atas rata-rata tujuh hari."
     },
@@ -1672,8 +1452,8 @@
       "commodity": "Cabai merah besar",
       "unit": "kg",
       "latestPrice": 44750.0,
-      "previousAverage": 34500.0,
-      "changePercent": 29.71014492753623,
+      "previousAverage": 35964.28571428572,
+      "changePercent": 24.42899702085401,
       "signal": "WASPADA NAIK",
       "reason": "Harga terbaru minimal 2% di atas rata-rata tujuh hari."
     },
@@ -1682,9 +1462,9 @@
       "commodityKey": "cabai-rawit",
       "commodity": "Cabai rawit merah",
       "unit": "kg",
-      "latestPrice": 65000.0,
-      "previousAverage": 66208.33333333333,
-      "changePercent": -1.8250471994965316,
+      "latestPrice": 64500.0,
+      "previousAverage": 66035.71428571429,
+      "changePercent": -2.3255813953488436,
       "signal": "NORMAL",
       "reason": "Belum ada sinyal kenaikan kuat atau titik murah baru."
     },
@@ -1694,8 +1474,8 @@
       "commodity": "Bawang merah",
       "unit": "kg",
       "latestPrice": 25750.0,
-      "previousAverage": 22821.428571428572,
-      "changePercent": 12.832550860719868,
+      "previousAverage": 23500.0,
+      "changePercent": 9.574468085106384,
       "signal": "WASPADA NAIK",
       "reason": "Harga terbaru minimal 2% di atas rata-rata tujuh hari."
     },
@@ -1705,10 +1485,10 @@
       "commodity": "Bawang putih",
       "unit": "kg",
       "latestPrice": 29500.0,
-      "previousAverage": 28916.666666666668,
-      "changePercent": 2.0172910662824166,
-      "signal": "WASPADA NAIK",
-      "reason": "Harga terbaru minimal 2% di atas rata-rata tujuh hari."
+      "previousAverage": 29000.0,
+      "changePercent": 1.7241379310344827,
+      "signal": "NORMAL",
+      "reason": "Belum ada sinyal kenaikan kuat atau titik murah baru."
     },
     {
       "area": "lamongan",
@@ -1716,8 +1496,8 @@
       "commodity": "LPG 3 kg",
       "unit": "tabung",
       "latestPrice": 20000.0,
-      "previousAverage": 19916.666666666668,
-      "changePercent": 0.41841004184099806,
+      "previousAverage": 19928.571428571428,
+      "changePercent": 0.35842293906810563,
       "signal": "NORMAL",
       "reason": "Belum ada sinyal kenaikan kuat atau titik murah baru."
     }
